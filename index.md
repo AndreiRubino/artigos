@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/AndreiRubino/artigos/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Olá Pessoal, meu nome é Andrei Rubino sou Pós-graduado em Gerenciamento de Projetos e graduado em Análise e Desenvolvimento de sistemas.
+Atuo na área de T.I há 8 anos, minha maior experiência é como Administrador de Banco de dados com experiência em Oracle, DB2, PostgreSQL e MySQL. 
+Atualmente atuo como DBA na Cast Group alocado na Caixa Econômica Federal.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Estarei compartilhando aqui em meu github alguns artigos sobre Bancos de Dados.
 
-### Markdown
+Me coloco a disposição a estar ajudando a todos que não entenderem.
+andrei.rubino@gmail.com
+[Linkedin](https://www.linkedin.com/in/andreirubino/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Também estou sempre aberto a opiniões caso tenham algo para compartilhar.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Resolvendo Problemas Simples e Complexos com Subquery
+Este artigo tem como objetivo descrever as diversas formas de como podemos utilizar subquerys para resolver problemas simples e complexos. As formas abaixo são uteis no dia a dia de cada desenvolvedor/dba.
+[Leia aqui](https://andreirubino.github.io/resolvendo-problemas-simples-e-complexos-com-subquery/)
 
-- Bulleted
-- List
+# Integridades Referenciais e suas Restrições
+Este artigo tem como objetivo esclarecer os conceitos e citar exemplos práticos dos tipos de FOREIGN KEY para garantir uma integridade referencial de acordo com a sua regra de negócio. As formas abaixo são uteis no dia a dia de cada desenvolvedor/dba.
+[Leia aqui](https://andreirubino.github.io/Integridades-Referenciais-e-suas-Restricoes/)
 
-1. Numbered
-2. List
+# Como criar um DB Link entre o Oracle e SQLServer (Hands ON)
+[Leia aqui](https://andreirubino.github.io/Como-criar-um-DB-Link-entre-Oracle-e-SQL-Server/)
 
-**Bold** and _Italic_ and `Code` text
+# Tunando Querys com cláusula WITH
+Este artigo tem como objetivo esclarecer os conceitos e citar exemplos práticos da Cláusula WITH conhecida como CTE(Commom table expression). As formas abaixo são uteis no dia a dia de cada desenvolvedor/dba.
+[Leia aqui](https://andreirubino.github.io/tunando-Querys-com-clausula-WITH/)
 
-[Link](url) and ![Image](src)
-```
+# 16 Dicas de como tunar suas Queries
+Este artigo tem como objetivo informar boas práticas de Tuning de Querys, a fim de melhorarmos o desempenho das Querys. As dicas abaixo não garantem por si só um melhor desempenho, cada query deve ser analisada a parte com base na sua necessidade.
+[Leia aqui](https://andreirubino.github.io/16-Dicas-de-como-tunar-suas-Queries/)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+# 12 Dicas de como tunar suas Queries
+Este é o segundo artigo com algumas dicas de como tunar suas Queries. As dicas abaixo não garantem por si só um melhor desempenho, cada query deve ser analisada a parte com base na sua necessidade.
+[Leia aqui](https://andreirubino.github.io/12-Dicas-de-como-tunar-suas-Queries/)
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AndreiRubino/artigos/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
