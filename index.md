@@ -1,13 +1,15 @@
+## Sobre mim
 
 Olá Pessoal, meu nome é Andrei Rubino sou Pós-graduado em Gerenciamento de Projetos e graduado em Análise e Desenvolvimento de sistemas.
+
 Atuo na área de T.I há 8 anos, minha maior experiência é como Administrador de Banco de dados com experiência em Oracle, DB2, PostgreSQL e MySQL. 
 Atualmente atuo como DBA na Cast Group alocado na Caixa Econômica Federal.
 
 Estarei compartilhando aqui em meu github alguns artigos sobre Bancos de Dados.
 
 Me coloco a disposição a estar ajudando a todos que não entenderem.
-andrei.rubino@gmail.com
-[Linkedin](https://www.linkedin.com/in/andreirubino/)
+- andrei.rubino@gmail.com
+- [Linkedin](https://www.linkedin.com/in/andreirubino/)
 
 Também estou sempre aberto a opiniões caso tenham algo para compartilhar.
 
