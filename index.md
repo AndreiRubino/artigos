@@ -1,6 +1,6 @@
 ## Sobre mim
 
-![Image](https://bn1301files.storage.live.com/y4mZvmVGBWxsWT_YxS5rpLf5ffYbCaeA0R7vQocOiSHVA7_4hPI0Xio1Cdtt6V6Dc_5beiC6bnbGmxbFqhO05qkK9d3NwT_t-B2Cp2D7wuUbgnExeJOLZnN5jJMGPFOW-eRf6kFeGKtCqp2WcOWqpH-lJE_rlEo6slf5VsbY3u3fDt571X09C1Rzest8CesI41t?width=261&height=315&cropmode=none)
+![Image](https://bn1301files.storage.live.com/y4mZvmVGBWxsWT_YxS5rpLf5ffYbCaeA0R7vQocOiSHVA7_4hPI0Xio1Cdtt6V6Dc_5beiC6bnbGmxbFqhO05qkK9d3NwT_t-B2Cp2D7wuUbgnExeJOLZnN5jJMGPFOW-eRf6kFeGKtCqp2WcOWqpH-lJE_rlEo6slf5VsbY3u3fDt571X09C1Rzest8CesI41t?width=185&height=255&cropmode=none)
 
 Olá Pessoal, meu nome é Andrei Rubino sou Pós-graduado em Gerenciamento de Projetos e graduado em Análise e Desenvolvimento de sistemas.
 
