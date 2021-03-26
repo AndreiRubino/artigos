@@ -15,6 +15,9 @@ Me coloco a disposição a estar ajudando a todos que não entenderem.
 
 Também estou sempre aberto a opiniões caso tenham algo para compartilhar.
 
+## Criando um Recovery Catalog e Registrando um Banco de Dados - [Leia aqui](https://andreirubino.github.io/Criando-um-Recovery-Catalog-e-Registrando-um-Banco-de-Dados/)
+Este artigo tem como objetivo descrever como efetuar a criação de um recovery catalog e após isso, como registrar um banco de dados nele.
+
 
 ## 12 Dicas de como tunar suas Queries - [Leia aqui](https://andreirubino.github.io/12-Dicas-de-como-tunar-suas-Queries/)
 Este é o segundo artigo com algumas dicas de como tunar suas Queries. As dicas abaixo não garantem por si só um melhor desempenho, cada query deve ser analisada a parte com base na sua necessidade.
