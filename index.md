@@ -7,7 +7,7 @@ Olá Pessoal, meu nome é Andrei Rubino sou Pós-graduado em Gerenciamento de Pr
 Atuo na área de T.I há 8 anos, minha maior experiência é como Administrador de Banco de dados com experiência em Oracle, DB2, PostgreSQL e MySQL. 
 Atualmente atuo como DBA na Cast Group alocado na Caixa Econômica Federal.
 
-Articulista no GPO (Grupo de Profissionais Oracle) - [Acesse aqui o GPO](https://www.profissionaloracle.com.br/)
+Articulista no GPO (Grupo de Profissionais Oracle) - [Acesse aqui o GPO](https://www.profissionaloracle.com.br/).
 
 Estarei compartilhando aqui em meu github alguns artigos sobre Bancos de Dados e Cloud Computing.
 
