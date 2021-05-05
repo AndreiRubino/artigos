@@ -9,6 +9,8 @@ Atualmente atuo como DBA na Cast Group alocado na Caixa Econômica Federal.
 
 Articulista no GPO (Grupo de Profissionais Oracle) - [Acesse aqui o GPO](https://www.profissionaloracle.com.br/).
 
+
+
 Estarei compartilhando aqui em meu github alguns artigos sobre Bancos de Dados e Cloud Computing.
 
 Me coloco a disposição a estar ajudando a todos que não entenderem.
