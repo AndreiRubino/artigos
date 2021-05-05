@@ -7,6 +7,8 @@ Olá Pessoal, meu nome é Andrei Rubino sou Pós-graduado em Gerenciamento de Pr
 Atuo na área de T.I há 8 anos, minha maior experiência é como Administrador de Banco de dados com experiência em Oracle, DB2, PostgreSQL e MySQL. 
 Atualmente atuo como DBA na Cast Group alocado na Caixa Econômica Federal.
 
+Articulista no GPO (Grupo de Profissionais Oracle) - https://www.profissionaloracle.com.br/
+
 Estarei compartilhando aqui em meu github alguns artigos sobre Bancos de Dados.
 
 Me coloco a disposição a estar ajudando a todos que não entenderem.
@@ -14,6 +16,12 @@ Me coloco a disposição a estar ajudando a todos que não entenderem.
 - [Linkedin](https://www.linkedin.com/in/andreirubino/)
 
 Também estou sempre aberto a opiniões caso tenham algo para compartilhar.
+
+
+## Arquitetura OCI - Conceitos Básicos - [Leia aqui](https://andreirubino.github.io/oci-conceitos-basicos/)
+Este vídeo tem o objetivo de esclarecer os Conceitos Básicos da Arquitetura OCI. Explicando o que é uma Region, Availability Domain, Fault Domain e um Compartment.
+Se você gostaria de iniciar os seus estudo na OCI, essa é a sua oportunidade !
+
 
 ## Criando um Recovery Catalog e Registrando um Banco de Dados - [Leia aqui](https://andreirubino.github.io/Criando-um-Recovery-Catalog-e-Registrando-um-Banco-de-Dados/)
 Este artigo tem como objetivo descrever como efetuar a criação de um recovery catalog e após isso, como registrar um banco de dados nele.
